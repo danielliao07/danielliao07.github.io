@@ -1,4 +1,4 @@
-# Daniel Liao's website
+# Daniel Liao
 Hi! I am an undergraduate at the University of Chicago interested in logic. Check here for project links.
 
 ### Proof Visualization
